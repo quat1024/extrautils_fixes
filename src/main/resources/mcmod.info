@@ -1,0 +1,16 @@
+[
+{
+  "modid": "extrautils_fixes",
+  "name": "Extra Utilities Fixes",
+  "description": "Fix slimes in superflat worlds with extra utilities",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["quaternary"],
+  "credits": "hhhhhhhghhgh",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
